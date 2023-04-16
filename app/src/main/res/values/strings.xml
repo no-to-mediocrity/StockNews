@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MotivationCards</string>
+    <string name="card1">I am successful.</string>
+    <string name="card2">I am confident.</string>
+    <string name="card3">I am powerful.</string>
+    <string name="card4">I am strong.</string>
+    <string name="card5">I am getting better and better every day.</string>
+    <string name="card6">All I need is within me right now.</string>
+    <string name="card7">I wake up motivated.</string>
+    <string name="card8">I am an unstoppable force of nature.</string>
+    <string name="card9">I am a living, breathing example of motivation.</string>
+    <string name="card10">I am living with abundance.</string>
+    <string name="card11">I am having a positive and inspiring impact on the people I come into contact with.</string>
+    <string name="card12">I am inspiring people through my work.</string>
+    <string name="card13">I’m rising above the thoughts that are trying to make me angry or afraid.</string>
+    <string name="card14">Today is a phenomenal day.</string>
+</resources>
