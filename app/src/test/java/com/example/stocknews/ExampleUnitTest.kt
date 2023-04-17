@@ -1,4 +1,4 @@
-package com.example.motivationcards
+package com.example.stocknews
 
 import org.junit.Test
 
